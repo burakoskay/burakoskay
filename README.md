@@ -1,4 +1,4 @@
-<h1 style="color: #66cc33; text-align: center; font-size: 2.8em;">RICK SANCHEZ</h1>
+<h1 style="color: #66cc33; text-align: center; font-size: 2.8em;">Jack of all trades, master of none</h1>
 
 <div style="text-align: right;"> <img src="https://github.com/burakoskay/burakoskay/blob/fc3e6427a4f81cdb6cd66131a73252bf1b1c3cc8/rick_mugshot.gif" alt="Wubba Lubba Dub Dub!" width="240" height="240">
 </div>
