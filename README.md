@@ -1,13 +1,17 @@
-<h1 style="color: #66cc33; text-align: center; font-size: 2.8em;">Jack of all trades, master of none</h1>
-
+<!-- 🎉 Dynamic greeting -->
+# Hi there  
+---
 <div style="text-align: right;"> <img src="https://github.com/burakoskay/burakoskay/blob/fc3e6427a4f81cdb6cd66131a73252bf1b1c3cc8/rick_mugshot.gif" alt="Wubba Lubba Dub Dub!" width="240" height="240">
 </div>
-<p style="text-align: center; font-size: 1.2em; color: #cc00cc;">
-  <b>Now Playing:</b> <a href="https://www.youtube.com/watch?v=R9S3r4gYQ5I" target="_blank" style="color:#0000ff;">Get Schwifty (Click to achieve enlightenment!)</a>
-</p>
 
 ---
 
+## 🌟 GitHub Stats  
+<!-- Optional: auto-updating stats -->
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
+
+---
 <h2 style="color: #008080;">About Me</h2>
 <p>
   I traverse dimensions, invent impossibly complex gadgets, and occasionally dabble in intergalactic diplomacy (read: blow stuff up). If you're not at least a genius with crippling existential dread, don't bother. I've seen things, man. Unspeakable things. And sometimes I forget where I parked my car.
