@@ -1,6 +1,6 @@
 <h1 style="color: #66cc33; text-align: center; font-size: 2.8em;">RICK SANCHEZ</h1>
 
-<div style="text-align: right;"> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MDN4NThyMTRjMDg2cHM4NW0yZmM4ZTQ2Z2x6bXJ4eHZhZmduaW1oeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4Fp5FBmK70IlecE5V/giphy.gif" alt="Wubba Lubba Dub Dub!" width="480" height="270">
+<div style="text-align: right;"> <img src="https://github.com/burakoskay/burakoskay/blob/fc3e6427a4f81cdb6cd66131a73252bf1b1c3cc8/rick_mugshot.gif" alt="Wubba Lubba Dub Dub!" width="480" height="270">
 </div>
 <p style="text-align: center; font-size: 1.2em; color: #cc00cc;">
   <b>Now Playing:</b> <a href="https://www.youtube.com/watch?v=R9S3r4gYQ5I" target="_blank" style="color:#0000ff;">Get Schwifty (Click to achieve enlightenment!)</a>
