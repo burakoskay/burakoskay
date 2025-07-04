@@ -1,83 +1,83 @@
-<h1 style="color: #cc00cc; font-size: 2.5em; text-align: center;">YOUR MYSPACE NAME HERE</h1>
+<h1 style="color: #66cc33; text-align: center; font-size: 2.8em;">RICK SANCHEZ</h1>
 
-<div style="text-align: center;">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" alt="Your Profile Picture" style="width: 150px; height: 150px; border: 2px solid #ff00ff; border-radius: 50%;">
+<div style="text-align: right;"> <img src="https://i.imgur.com/example-rick-profile-pic.png" alt="Wubba Lubba Dub Dub!" width="180" height="180">
+</div>
+<p style="text-align: center; font-size: 1.2em; color: #cc00cc;">
+  <b>Now Playing:</b> <a href="https://www.youtube.com/watch?v=R9S3r4gYQ5I" target="_blank" style="color:#0000ff;">Get Schwifty (Click to achieve enlightenment!)</a>
+</p>
+
+---
+
+<h2 style="color: #008080;">About Me</h2>
+<p>
+  Alright, listen up, you little turds! I'm Rick Sanchez, the smartest being in the multiverse, probably. I traverse dimensions, invent impossibly complex gadgets, and occasionally dabble in intergalactic diplomacy (read: blow stuff up). If you're not at least a genius with crippling existential dread, don't bother. I've seen things, man. Unspeakable things. And sometimes I forget where I parked my space car. Wubba Lubba Dub Dub!
+</p>
+<p>
+  I spend my time avoiding galactic federations, questioning the very fabric of reality, and developing new ways to get wasted in various dimensions. My only true companion is my portal gun and a flask full of the good stuff. If you're looking for someone to save the world or just find some Szechuan sauce, I'm your guy. For a price, of course. Everything has a price, Morty.
+</p>
+
+---
+
+<h2 style="color: #008080;">Who I'd Like To Meet</h2>
+<ul>
+  <li>Anyone who isn't a Jerry.</li>
+  <li>Fellow multi-dimensional travelers with functional portal technology.</li>
+  <li>Someone who can explain why my life is such a paradox.</li>
+  <li>Advanced alien civilizations with interesting forms of alcohol.</li>
+  <li>A universe where I can truly be at peace (HA! Just kidding, I thrive on chaos).</li>
+</ul>
+
+---
+
+<h2 style="color: #008080;">My Interests</h2>
+<ul>
+  <li>🔬 <b style="color: #ff0000;">Science:</b> Interdimensional travel, advanced robotics, genetic manipulation (don't ask).</li>
+  <li>🍺 <b style="color: #ffa500;">Drinking:</b> Any and all forms of cosmic booze.</li>
+  <li>👽 <b style="color: #00ff00;">Alien Life Forms:</b> Studying, dissecting, occasionally befriending (rarely).</li>
+  <li>🎶 <b style="color: #ffff00;">Music:</b> Getting schwifty, improvised jazz, the screams of my enemies.</li>
+  <li>🚫 <b style="color: #ff00ff;">Avoiding Bureaucracy:</b> A top-tier skill.</li>
+</ul>
+
+---
+
+<h2 style="color: #008080;">My Top 8 "Friends"</h2>
+<div>
+  <p style="text-align: center;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBjY3g4OWs5c3Axb3pnZTNjM2xwbHM3YWF2dnlxa3NlbDM3NGp0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QYRjw6Jz0jyr1AnPW9/giphy.gif" alt="Morty" width="80" height="80"><br>
+    <b style="color: #00ff00;">Morty</b>
+  </p>
+  <p style="text-align: center;">
+    <img src="https://i.imgur.com/example-summer.png" alt="Summer" width="80" height="80"><br>
+    <b style="color: #ffa500;">Summer</b>
+  </p>
+  <p style="text-align: center;">
+    <img src="https://i.imgur.com/example-beth.png" alt="Beth" width="80" height="80"><br>
+    <b style="color: #ff00ff;">Beth</b>
+  </p>
+  <p style="text-align: center;">
+    <img src="https://i.imgur.com/example-jerry.png" alt="Jerry" width="80" height="80"><br>
+    <b style="color: #808080;">Jerry (Ugh)</b>
+  </p>
+  <p style="text-align: center;">
+    <img src="https://i.imgur.com/example-birdperson.png" alt="Birdperson" width="80" height="80"><br>
+    <b style="color: #00ffff;">Birdperson</b>
+  </p>
+  <p style="text-align: center;">
+    <img src="https://i.imgur.com/example-mr-poopybutthole.png" alt="Mr. Poopybutthole" width="80" height="80"><br>
+    <b style="color: #993366;">Mr. Poopybutthole</b>
+  </p>
+  <p style="text-align: center;">
+    <img src="https://i.imgur.com/example-squanchy.png" alt="Squanchy" width="80" height="80"><br>
+    <b style="color: #800080;">Squanchy</b>
+  </p>
+  <p style="text-align: center;">
+    <img src="https://i.imgur.com/example-unity.png" alt="Unity" width="80" height="80"><br>
+    <b style="color: #ff9900;">Unity</b>
+  </p>
 </div>
 
-<p style="text-align: center; font-size: 1.1em; color: #663300;">
-  <b>Now Playing:</b> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" style="color:#0000ff; text-decoration: underline;">My Awesome Life Theme Song (Click at your own risk!)</a>
-</p>
-
 ---
 
-<h2 style="color: #0066cc; font-size: 1.8em;">About Me</h2>
-<p style="color: #333333; line-height: 1.5;">
-  Hey there! Welcome to my profile. I'm just a coder living in the digital world, enjoying long walks through repositories and debating tabs vs. spaces. My spirit animal is a JavaScript console error, and my favorite pastime is debugging.
-</p>
-<p style="color: #333333; line-height: 1.5;">
-  I'm super passionate about building cool stuff and learning new technologies. Hit me up if you want to collaborate or just talk about the good old days of Flash animations!
-</p>
-
----
-
-<h2 style="color: #0066cc; font-size: 1.8em;">Who I'd Like To Meet</h2>
-<ul style="color: #333333;">
-  <li>People who leave helpful comments in their code</li>
-  <li>Anyone who remembers dial-up internet</li>
-  <li>Future collaborators and mentors</li>
-</ul>
-
----
-
-<h2 style="color: #0066cc; font-size: 1.8em;">My Interests</h2>
-<ul style="color: #333333;">
-  <li>🚀 Building Web Applications (Frontend & Backend)</li>
-  <li>💡 Learning New Programming Languages (Currently exploring Rust!)</li>
-  <li>🎮 Gaming (Retro and Modern)</li>
-  <li>🎶 Discovering New Music</li>
-  <li>📚 Reading Sci-Fi Novels</li>
-</ul>
-
----
-
-<h2 style="color: #0066cc; font-size: 1.8em;">My Top 8 Friends</h2>
-<p style="text-align: center;">
-  <span style="display: inline-block; margin: 5px; border: 1px solid #ffcc00; padding: 5px; background-color: #fffacd; text-align: center;">
-    <img src="https://i.imgur.com/placeholder-friend1.jpg" alt="Friend 1" style="width: 80px; height: 80px; border-radius: 50%; display: block; margin: 0 auto 5px auto;">
-    <span style="font-size: 0.9em; font-weight: bold; color: #663300;">Coding Buddy</span>
-  </span>
-  <span style="display: inline-block; margin: 5px; border: 1px solid #ffcc00; padding: 5px; background-color: #fffacd; text-align: center;">
-    <img src="https://i.imgur.com/placeholder-friend2.jpg" alt="Friend 2" style="width: 80px; height: 80px; border-radius: 50%; display: block; margin: 0 auto 5px auto;">
-    <span style="font-size: 0.9em; font-weight: bold; color: #663300;">Design Guru</span>
-  </span>
-  <span style="display: inline-block; margin: 5px; border: 1px solid #ffcc00; padding: 5px; background-color: #fffacd; text-align: center;">
-    <img src="https://i.imgur.com/placeholder-friend3.jpg" alt="Friend 3" style="width: 80px; height: 80px; border-radius: 50%; display: block; margin: 0 auto 5px auto;">
-    <span style="font-size: 0.9em; font-weight: bold; color: #663300;">The Debugger</span>
-  </span>
-  <span style="display: inline-block; margin: 5px; border: 1px solid #ffcc00; padding: 5px; background-color: #fffacd; text-align: center;">
-    <img src="https://i.imgur.com/placeholder-friend4.jpg" alt="Friend 4" style="width: 80px; height: 80px; border-radius: 50%; display: block; margin: 0 auto 5px auto;">
-    <span style="font-size: 0.9em; font-weight: bold; color: #663300;">Open Sourcerer</span>
-  </span>
-  <br> <span style="display: inline-block; margin: 5px; border: 1px solid #ffcc00; padding: 5px; background-color: #fffacd; text-align: center;">
-    <img src="https://i.imgur.com/placeholder-friend5.jpg" alt="Friend 5" style="width: 80px; height: 80px; border-radius: 50%; display: block; margin: 0 auto 5px auto;">
-    <span style="font-size: 0.9em; font-weight: bold; color: #663300;">Tech Enthusiast</span>
-  </span>
-  <span style="display: inline-block; margin: 5px; border: 1px solid #ffcc00; padding: 5px; background-color: #fffacd; text-align: center;">
-    <img src="https://i.imgur.com/placeholder-friend6.jpg" alt="Friend 6" style="width: 80px; height: 80px; border-radius: 50%; display: block; margin: 0 auto 5px auto;">
-    <span style="font-size: 0.9em; font-weight: bold; color: #663300;">Game Dev</span>
-  </span>
-  <span style="display: inline-block; margin: 5px; border: 1px solid #ffcc00; padding: 5px; background-color: #fffacd; text-align: center;">
-    <img src="https://i.imgur.com/placeholder-friend7.jpg" alt="Friend 7" style="width: 80px; height: 80px; border-radius: 50%; display: block; margin: 0 auto 5px auto;">
-    <span style="font-size: 0.9em; font-weight: bold; color: #663300;">Coffee Addict</span>
-  </span>
-  <span style="display: inline-block; margin: 5px; border: 1px solid #ffcc00; padding: 5px; background-color: #fffacd; text-align: center;">
-    <img src="https://i.imgur.com/placeholder-friend8.jpg" alt="Friend 8" style="width: 80px; height: 80px; border-radius: 50%; display: block; margin: 0 auto 5px auto;">
-    <span style="font-size: 0.9em; font-weight: bold; color: #663300;">Innovation Lab</span>
-  </span>
-</p>
-
----
-
-<p style="text-align: center; font-size: 1.2em; color: #666; font-style: italic;">
-  You are visitor number: <span>9000</span>
+<p style="text-align: center; font-style: italic; color: #a9a9a9;">
+  You are visitor number: <span>9000</span> (and probably disappointed)
 </p>
